@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "mcp-server-valuation",
+  "description": "Model Context Protocol (MCP) server for multi-asset valuation, M&A deal metrics, and enterprise digital asset appraisal.",
+  "repository": {
+    "url": "https://github.com/tudadada/mcp-server-valuation",
+    "source": "github"
+  },
+  "homepage": "https://github.com/tudadada/mcp-server-valuation#readme"
+}
